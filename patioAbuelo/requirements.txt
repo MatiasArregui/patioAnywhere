@@ -1,0 +1,7 @@
+python-escpos 
+asgiref
+Django
+sqlparse
+tzdata
+django-bootstrap-v5
+pillow      
